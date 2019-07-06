@@ -1,0 +1,16 @@
+.company {
+  border: thin solid green;
+  padding: 2rem;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.companytext {
+  position: relative;
+  top: -47px;
+  background: white;
+  padding: 7px;
+  width: 70px;
+  color: green;
+}
